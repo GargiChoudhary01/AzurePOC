@@ -1,0 +1,7 @@
+{
+	"name": "integrationRuntimeGargi",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "To connect to on prim table"
+	}
+}
